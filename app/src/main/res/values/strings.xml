@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string-array name="length">
+        <item>千米km</item>
+        <item>米m</item>
+        <item>分米dm</item>
+        <item>厘米cm</item>
+        <item>毫米mm</item>
+        <item>微米μm</item>
+        <item>纳米nm</item>
+        <item>皮米pm</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>立方米m³</item>
+        <item>立方分米dm³</item>
+        <item>立方厘米cm³</item>
+        <item>立方毫米mm³</item>
+        <item>公石hl</item>
+        <item>升l</item>
+        <item>分升dl</item>
+        <item>厘升cl</item>
+        <item>毫升ml</item>
+    </string-array>
+
+    <string-array name="square">
+        <item>平方千米km²</item>
+        <item>公顷ha</item>
+        <item>公亩a</item>
+        <item>平方米m²</item>
+        <item>平方分米dm²</item>
+        <item>平方厘米cm²</item>
+        <item>平方毫米mm²</item>
+        <item>英亩ac</item>
+    </string-array>
+
+    <string-array name="math">
+        <item>二进制</item>
+        <item>八进制</item>
+        <item>十进制</item>
+        <item>十六进制</item>
+    </string-array>
+
+    <string-array name="rate">
+        <item>人民币CNY</item>
+        <item>美元USD</item>
+    </string-array>
+
+    <string name="login">登录</string>
+    <string name="cancel">取消</string>
+    <string name="findPassword">找回密码</string>
+    <string name="back">返回</string>
+
+</resources>
